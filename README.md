@@ -1,2 +1,2 @@
-# lorick-rss
-RSS feed for the Lorick podcast.
+# lorick-content
+RSS feeds for the Lorick podcast.
